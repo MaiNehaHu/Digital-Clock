@@ -1,18 +1,18 @@
-#Dclock{
-    height: 90vh;
-    width: 100%;
-    font-size: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
+#Dclock {
+  height: 90vh;
+  width: 100%;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
-p{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-body{
-    background:linear-gradient(to right bottom, red 1%, blue 50%,orange 90%);
-    color: white;
-    height: 100vh;
-    overflow: hidden;
+body {
+  background: linear-gradient(to right bottom, red 1%, blue 50%, orange 90%);
+  color: white;
+  height: 100vh;
+  overflow: hidden;
 }
